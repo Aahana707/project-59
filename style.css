@@ -1,0 +1,15 @@
+p{
+  font-size: 40px;
+  line-height: 1.2;
+  font-family:fantasy;
+  font-weight: 300;
+  color: darkviolet;
+  text-align:center;
+}
+.img{
+  height:300;
+  width:300;
+}
+.html{
+  background-color:#3ddbd6;
+} 
